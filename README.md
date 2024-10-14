@@ -20,7 +20,7 @@ This tool performs OTU (Operational Taxonomic Unit) clustering from amplicon seq
 - Allows for quality assessment using `vsearch` against reference databases.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Required Python packages:
   - `argparse`
   - `gzip`
